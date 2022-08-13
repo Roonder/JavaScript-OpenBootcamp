@@ -1,0 +1,23 @@
+{
+  "name": "primer_proyecto",
+  "version": "1.0.0",
+  "description": "Primer Ejercicio OpenBootcamp JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roonder/JavaScript-OpenBootcamp.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Roonder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roonder/JavaScript-OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/Roonder/JavaScript-OpenBootcamp#readme"
+}
